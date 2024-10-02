@@ -1,1 +1,37 @@
-[]
+[
+     {
+          "id": "8bb7723a-ddeb-43fc-a837-06bf5c2ef564",
+          "name": "Matthew Kerluke",
+          "phone": "753-845-6409 x36291",
+          "email": "Connie20@yahoo.com",
+          "job": "Lead Communications Liaison"
+     },
+     {
+          "id": "e30c6250-3493-4e76-82ca-6918dea3e919",
+          "name": "Bert Farrell",
+          "phone": "247.633.4847",
+          "email": "Kara.Beahan@hotmail.com",
+          "job": "Dynamic Applications Architect"
+     },
+     {
+          "id": "a3f8f652-3900-48f8-90ef-d0d94a8cb7ef",
+          "name": "Fredrick Senger",
+          "phone": "(299) 574-8700 x95393",
+          "email": "Odell_DAmore@hotmail.com",
+          "job": "Global Implementation Developer"
+     },
+     {
+          "id": "2f9df513-c705-4b48-ad94-238808aa03a5",
+          "name": "Cecilia Wunsch",
+          "phone": "727.658.6420 x0420",
+          "email": "Edwina.Cummerata57@gmail.com",
+          "job": "Dynamic Usability Agent"
+     },
+     {
+          "id": "91393d17-ee6a-4929-9d2f-af3c19a42981",
+          "name": "Neil Stokes",
+          "phone": "899.990.7633 x33177",
+          "email": "Tomasa_Ullrich60@gmail.com",
+          "job": "Corporate Factors Engineer"
+     }
+]
